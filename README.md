@@ -1,6 +1,9 @@
 # 2023-02-pydeep
 [2023 멀티캠퍼스 수강 2023.02.20(월)~02.24(금)] [Live] 파이썬과 오픈소스를 활용한 딥러닝(심화)
 
+## 캐라스 창시자에게 배우는 딥러닝 개정2판, 2022
+- https://github.com/rickiepark/deep-learning-with-python-2nd
+
 ## 이성주
 - seongjoo@codebasic.io
 
