@@ -21,3 +21,6 @@
 
 ## 슬라이드
 - https://www.dropbox.com/s/7qbynwfox3wdw0j/pydeep%202.pdf?dl=0
+
+## 보강
+- https://vimeo.com/user/126446692/folder/15150522
